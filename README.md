@@ -59,10 +59,6 @@ The LSTM model is implemented using PyTorch and consists of:
 - RMSE is calculated for both training and testing datasets.
 - Visualization includes actual vs predicted prices and prediction errors.
 
-## Example Output
-
-![Stock Price Prediction](example_output.png)
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
